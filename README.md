@@ -12,24 +12,24 @@
 
 ## 🎯 WHO I AM
 
-Especialista em cibersegurança com foco em testes de penetração e infraestruturas críticas. Arquiteto de sistemas resilientes e de alta performance. Desenvolvedor quantitativo com experiência em sistemas de baixa latência.
+Cybersecurity specialist focused on penetration testing and critical infrastructure. Architect of resilient, high-performance systems. Quantitative developer with expertise in low-latency systems.
 
-**Competências principais:**
-- Testes de segurança: Red Team | Blue Team | Penetration Testing
-- Arquitetura: IA, sistemas bancários, infraestruturas empresariais e acadêmicas
-- Design de sistemas nano-rápidos, cyber resilientes e de alta frequência
-- Análise técnica para ambientes corporativos, startups e acadêmicos
+**Core competencies:**
+- Security testing: Red Team | Blue Team | Penetration Testing
+- Architecture: AI, banking systems, enterprise infrastructure, academic environments
+- Design: nano-fast systems, cyber-resilient architectures, high-frequency technologies
+- Technical analysis for corporate, startup, and academic environments
 
 ---
 
 ## 💻 TECHNOLOGY STACK
 
 <div align="center">
-  <h3>Linguagens</h3>
+  <h3>Languages</h3>
   <img src="https://skillicons.dev/icons?i=cpp,java,rust,python,bash&theme=dark&perline=5" />
   <br><br>
   
-  <h3>Infraestrutura & Ferramentas</h3>
+  <h3>Infrastructure & Tools</h3>
   <img src="https://skillicons.dev/icons?i=linux,apache,mysql&theme=dark&perline=3" />
   <br>
   <p style="color: #0066cc; font-family: monospace; font-size: 13px;">
@@ -41,12 +41,12 @@ Especialista em cibersegurança com foco em testes de penetração e infraestrut
 
 ## 🔧 EXPERTISE AREAS
 
-| Área | Descrição |
-|------|-----------|
-| **Segurança** | Pentesting, análise de vulnerabilidades, testes de defesa |
-| **Arquitetura** | IA, sistemas bancários, infraestruturas empresariais, ambientes acadêmicos |
-| **Desenvolvimento** | Sistemas de baixa latência, quantitative computing, otimização de performance |
-| **Ambientes** | Corporativo, startup, setor financeiro, ambiente acadêmico |
+| Domain | Description |
+|--------|-------------|
+| **Security** | Penetration testing, vulnerability assessment, defense evaluation |
+| **Architecture** | AI systems, banking infrastructure, enterprise systems, academic environments |
+| **Development** | Low-latency systems, quantitative computing, performance optimization |
+| **Sectors** | Corporate, startup, financial services, academic institutions |
 
 ---
 
