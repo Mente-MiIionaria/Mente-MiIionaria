@@ -28,10 +28,14 @@
 Cybersecurity specialist focused on penetration testing and critical infrastructure. High frequency trading developer specializing in low-latency quantitative systems. Architect of resilient, high-performance infrastructures for financial, corporate, and banking environments.
 
 **Core Competencies:**
-- Security Testing: Red Team | Blue Team | Penetration Testing | Vulnerability Assessment
-- Cybersecurity Architecture: Banking Systems | Enterprise Infrastructure | Critical Systems
-- High Frequency Trading: Quantitative Development | Low-Latency Systems | Algorithmic Trading
-- System Design: Nano-fast Architectures | Cyber-resilient Infrastructure | Academic & Enterprise Environments
+
+▸ Security Testing: Red Team | Blue Team | Penetration Testing | Vulnerability Assessment
+
+▸ Cybersecurity Architecture: Banking Systems | Enterprise Infrastructure | Critical Systems
+
+▸ High Frequency Trading: Quantitative Development | Low-Latency Systems | Algorithmic Trading
+
+▸ System Design: Nano-fast Architectures | Cyber-resilient Infrastructure | Academic & Enterprise Environments
 
 ---
 
@@ -41,12 +45,12 @@ Cybersecurity specialist focused on penetration testing and critical infrastruct
   <table>
     <tr>
       <td align="center" width="50%">
-        <h3>CYBERSECURITY</h3>
+        <h3>━━ CYBERSECURITY ━━</h3>
         <p>Penetration Testing<br/>Red Team Operations<br/>Blue Team Defense<br/>Infrastructure Security<br/>Vulnerability Analysis</p>
         <img src="https://img.shields.io/badge/Expertise-CRITICAL-0066cc?style=flat-square&logo=security&logoColor=white" />
       </td>
       <td align="center" width="50%">
-        <h3>HIGH FREQUENCY TRADING</h3>
+        <h3>━━ HIGH FREQUENCY TRADING ━━</h3>
         <p>Quantitative Development<br/>Low-Latency Systems<br/>Algorithmic Trading<br/>FPGA Optimization<br/>Market Analysis</p>
         <img src="https://img.shields.io/badge/Expertise-CRITICAL-ff6b6b?style=flat-square&logo=bitcoin&logoColor=white" />
       </td>
@@ -59,15 +63,15 @@ Cybersecurity specialist focused on penetration testing and critical infrastruct
 ## TECHNOLOGY STACK
 
 <div align="center">
-  <h3>Languages</h3>
+  <h3>▪ Languages</h3>
   <img src="https://skillicons.dev/icons?i=cpp,java,rust,python,bash&theme=dark&perline=5" />
   <br><br>
   
-  <h3>Infrastructure & Tools</h3>
+  <h3>▪ Infrastructure & Tools</h3>
   <img src="https://skillicons.dev/icons?i=linux,apache,mysql&theme=dark&perline=3" />
   <br>
   <p style="color: #0066cc; font-family: monospace; font-size: 13px;">
-    FPGA | Solarflare | Triton Inference | vLLM | SQL | POSIX | High-Performance Computing
+    ▪ FPGA  ▪ Solarflare  ▪ Triton Inference  ▪ vLLM  ▪ SQL  ▪ POSIX  ▪ High-Performance Computing
   </p>
 </div>
 
@@ -81,10 +85,10 @@ Cybersecurity specialist focused on penetration testing and critical infrastruct
 
 | Domain | Specialization | Environment |
 |--------|------------------|-------------|
-| Security | Penetration Testing, Vulnerability Assessment, Defense Evaluation, Infrastructure Hardening | Corporate, Financial, Academic |
-| Architecture | AI Systems, Banking Infrastructure, Enterprise Systems, Academic Environments | Enterprise Grade |
-| HFT Development | Quantitative Computing, Low-Latency Algorithms, Market Data Processing, Execution Systems | Financial Services |
-| Optimization | Performance Engineering, System Latency Reduction, High-Frequency Infrastructure, Cyber Resilience | Critical Systems |
+| ▪ Security | Penetration Testing, Vulnerability Assessment, Defense Evaluation, Infrastructure Hardening | Corporate, Financial, Academic |
+| ▪ Architecture | AI Systems, Banking Infrastructure, Enterprise Systems, Academic Environments | Enterprise Grade |
+| ▪ HFT Development | Quantitative Computing, Low-Latency Algorithms, Market Data Processing, Execution Systems | Financial Services |
+| ▪ Optimization | Performance Engineering, System Latency Reduction, High-Frequency Infrastructure, Cyber Resilience | Critical Systems |
 
 ---
 
@@ -94,34 +98,34 @@ Cybersecurity specialist focused on penetration testing and critical infrastruct
   <table>
     <tr>
       <td align="center">
-        <strong>Cybersecurity Operations</strong><br/>
+        <strong>━ Cybersecurity Operations ━</strong><br/>
         Offensve & Defensive<br/>
         Red Team | Blue Team
       </td>
       <td align="center">
-        <strong>High Frequency Systems</strong><br/>
+        <strong>━ High Frequency Systems ━</strong><br/>
         Ultra-Low Latency<br/>
         FPGA & Kernel Optimization
       </td>
       <td align="center">
-        <strong>Quantitative Trading</strong><br/>
+        <strong>━ Quantitative Trading ━</strong><br/>
         Algorithmic Development<br/>
         Market Risk Analysis
       </td>
     </tr>
     <tr>
       <td align="center">
-        <strong>Infrastructure Design</strong><br/>
+        <strong>━ Infrastructure Design ━</strong><br/>
         Banking Systems<br/>
         Enterprise Architecture
       </td>
       <td align="center">
-        <strong>System Engineering</strong><br/>
+        <strong>━ System Engineering ━</strong><br/>
         Nano-Fast Architecture<br/>
         Cyber Resilience
       </td>
       <td align="center">
-        <strong>Technical Analysis</strong><br/>
+        <strong>━ Technical Analysis ━</strong><br/>
         Performance Evaluation<br/>
         Security Assessment
       </td>
