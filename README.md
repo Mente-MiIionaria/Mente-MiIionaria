@@ -107,11 +107,6 @@ Cybersecurity specialist focused on penetration testing and critical infrastruct
         Ultra-Low Latency<br/>
         FPGA & Kernel Optimization
       </td>
-      <td align="center">
-        <strong>━ Quantitative Trading ━</strong><br/>
-        Algorithmic Development<br/>
-        Market Risk Analysis
-      </td>
     </tr>
     <tr>
       <td align="center">
@@ -123,11 +118,6 @@ Cybersecurity specialist focused on penetration testing and critical infrastruct
         <strong>━ System Engineering ━</strong><br/>
         Nano-Fast Architecture<br/>
         Cyber Resilience
-      </td>
-      <td align="center">
-        <strong>━ Technical Analysis ━</strong><br/>
-        Performance Evaluation<br/>
-        Security Assessment
       </td>
     </tr>
   </table>
