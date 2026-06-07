@@ -145,6 +145,35 @@ Cybersecurity specialist focused on penetration testing and critical infrastruct
 
 ---
 
+## GET IN TOUCH
+
+<div align="center">
+  <p style="font-size: 14px; color: #ffffff; margin-bottom: 20px;">
+    Available for consulting, pentesting engagements, system architecture design, and HFT development opportunities.
+  </p>
+  
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://www.linkedin.com/in/kleyton-abelardo-116813332/">
+          <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40"/>
+        </a>
+      </td>
+      <td align="center">
+        <a href="mailto:kleytonvelichane3@gmail.com">
+          <img src="https://img.shields.io/badge/Email-Send_Message-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40"/>
+        </a>
+      </td>
+    </tr>
+  </table>
+
+  <p style="font-size: 12px; color: #666; margin-top: 15px;">
+    kleytonvelichane3@gmail.com
+  </p>
+</div>
+
+---
+
 <div align="center" style="margin-top: 40px;">
   <p style="color: #666; font-family: monospace; font-size: 12px; margin-top: 30px;">
     Building resilient security systems | Architecting high-frequency infrastructure | Engineering quantitative solutions
